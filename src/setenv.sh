@@ -1,6 +1,6 @@
 export GITACCOUNT=benus
 
-export MYCLUSTER=
+export MYCLUSTER=tektonknativebeijing36
 export KUBECONFIG=
 
 export NAMESPACE=tektonknativebeijing36
